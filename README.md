@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Emi
+
+- Pronouns: she/her
+- Student at Thomas Jefferson High School for Science and Technology
 
 <!--
 **emyik/emyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
