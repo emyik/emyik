@@ -10,8 +10,6 @@ I'm a Computer Science undergraduate student at Georgia Tech with an interest in
 
 <br />
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyik&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 </div>
 
 <!--
