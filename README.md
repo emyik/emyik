@@ -4,7 +4,7 @@
 I'm a Computer Science undergraduate student at Georgia Tech with an interest in machine learning. From conducting ML research to developing web applications, I've had the oportunity to work on impactful projects!
 <br />
 
-<a href="https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/emyik/" target="_blank">
+<a href="https://www.linkedin.com/in/emyik/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
