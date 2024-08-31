@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi, I'm Emi! 👋 </h2>
 
-I'm a Computer Science undergraduate student at Georgia Tech with an interest in machine learning. From conducting ML research to developing web applications, I've had the oportunity to work on impactful projects!
+Hi! I’m Emi Zhang, a first-year Computer Science student at Georgia Tech interested in machine learning and software development. I am passionate about leveraging data to drive innovative solutions and solve complex problems.
 <br />
 
 <a href="https://www.linkedin.com/in/emyik/" target="_blank">
